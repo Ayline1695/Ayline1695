@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, i'm Marcela Archile 👋
 
 <!--
-**Ayline1695/Ayline1695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ayline1695/marchile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
+
+I am 25 años, my profile Front-end Developer with background in Databases and Emailing
+I'm looking for new challenges for continue learning and develop my skills
+
+## Projects
+
+PlanningTo(https://planningto.netlify.app/)
+
+FriendlyPlants(https://friendlyplants.herokuapp.com/)
+
