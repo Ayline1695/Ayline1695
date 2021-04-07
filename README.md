@@ -21,7 +21,7 @@ I'm looking for new challenges for continue learning and develop my skills
 
 ## Projects
 
-PlanningTo(https://planningto.netlify.app/)
+[PlanningTo](https://planningto.netlify.app/)
 
-FriendlyPlants(https://friendlyplants.herokuapp.com/)
+[FriendlyPlants](https://friendlyplants.herokuapp.com/)
 
