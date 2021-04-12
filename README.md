@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## About me
 
-I am 25 años, my profile Front-end Developer with background in Databases and Emailing
+I am 25 years, my profile Front-end Developer with background in Databases and Emailing
 I'm looking for new challenges for continue learning and develop my skills
 
 ## Projects
