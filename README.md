@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## About me
 
-I am 25 years, I am a Full Stack Developer with background in Databases and Emailing, and notions of Design
+I am 25 years, I am a Full Stack Developer with background in Databases and Emailing, and notions of Design<br/>
 I'm looking for new challenges for continue learning and develop my skills
 
 ## Knowledges
