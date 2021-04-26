@@ -1,4 +1,4 @@
-### Hi there, i'm Marcela Archile 👋
+### Hi there, I'm Marcela Archile 👋
 
 <!--
 **Ayline1695/marchile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +25,5 @@ I'm looking for new challenges for continue learning and develop my skills
 
 [FriendlyPlants](https://friendlyplants.herokuapp.com/)
 
+## Contact
+Linkedin --> https://www.linkedin.com/in/marchile/
