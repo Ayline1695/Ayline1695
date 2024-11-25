@@ -54,6 +54,7 @@ I'm looking for new challenges for continue learning and develop my skills
 <p>
 <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=virtual-studio-code&logoColor=white" style="display: inline-block" />
 <img alt="Dreamweaver" src="https://img.shields.io/badge/-Dreamweaver-%23FF61F6?style=flat-square&logo=adobe-dreamweaver&logoColor=white" style="display: inline-block" />
+  <img alt="AndroidStudio" src="https://img.shields.io/badge/-Android_Studio-white?style=flat-square&logo=androidStudio&logoColor=blue" style="display: inline-block" />
 </p>
 
 ## Projects
