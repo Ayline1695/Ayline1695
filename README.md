@@ -21,7 +21,7 @@ I'm looking for new challenges for continue learning and develop my skills
 
 ## Knowledges
 
-## Aplication Development
+## Application Development
 <p>
   <img alt="flutter" src="https://img.shields.io/badge/-Flutter-white?style=flat-square&logo=flutter&logoColor=blue" />
 
