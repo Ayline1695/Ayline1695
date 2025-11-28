@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## About me
 
-I am 29 years, I am a Full Stack Developer with background in Databases and Emailing, and notions of Design<br/>
+I am 30 years, I am a Full Stack Developer with background in Databases, Marketing and Emailing, and notions of Design<br/>
 I'm looking for new challenges for continue learning and develop my skills
 
 ## Knowledges
@@ -24,7 +24,7 @@ I'm looking for new challenges for continue learning and develop my skills
 ## Application Development
 <p>
   <img alt="flutter" src="https://img.shields.io/badge/-Flutter-white?style=flat-square&logo=flutter&logoColor=blue" />
-
+  <img alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
 </p>
 
 ### Web Development
