@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 ## About me
 
-I am 30 years, I am a Full Stack Developer with background in Databases, Marketing and Emailing, and notions of Design<br/>
-I'm looking for new challenges for continue learning and develop my skills
+I am 30 years, I am a Android Developer with background in Web, Databases, Marketing and Emailing, and notions of Design<br/>
 
-## Knowledges
+# Knowledges #
 
 ## Application Development
 <p>
